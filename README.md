@@ -108,3 +108,29 @@ Frontend runs at http://localhost:5173.
 ## Screenshots
 
 See the screenshots folder for UI screenshots of registration, login, dashboard, and request creation.
+
+## Screenshot Gallery
+
+### Swagger API Overview
+![Swagger Overview](./screenshots/01-swagger-overview.png)
+
+### Auth Endpoints
+![Auth Endpoints](./screenshots/02-swagger-auth-endpoints.png)
+
+### Login Page
+![Login Page](./screenshots/03-login-page.png)
+
+### Dashboard
+![Dashboard](./screenshots/04-dashboard.png)
+
+### Create Request Form
+![Create Request](./screenshots/05-create-request-form.png)
+
+### Status Update
+![Status Update](./screenshots/06-status-update.png)
+
+### Deleting a Request
+![Delete Request](./screenshots/07-deleting-request-update.png)
+
+### Status Update (continued)
+![Status Update 2](./screenshots/08-status-update.png)
